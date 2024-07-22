@@ -8,7 +8,7 @@ super + Return
 
 # browser
 super + c
-        chrome
+        chromium
 
 # program launcher
 super + @space
