@@ -6,6 +6,10 @@
 super + Return
         alacritty	
 
+# browser
+super + c
+        chrome
+
 # program launcher
 super + @space
 	rofi -show drun
@@ -67,7 +71,7 @@ super + {p,b,comma,period}
 	bspc node -f @{parent,brother,first,second}
 
 # focus the next/previous window in the current desktop
-super + {_,shift + }c
+super + shift + c
 	bspc node -f {next,prev}.local.!hidden.window
 
 # focus the next/previous desktop in the current monitor
