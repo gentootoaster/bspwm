@@ -5,6 +5,7 @@ BSPWM
 **INSTALL GUIDE**
 --------------------------------------------------
 1. Clone repo
-2. Copy all bspwm/bspwm-rose-pine/config files in ~/.confif
-3. Install picom, feh, alacritty, bspwm, rofi, neovim, sxhkd and all there dependencies
-4. Enjoy!
+2. Copy all bspwm/bspwm-rose-pine/config files in ~/.config
+3. Copy xinitrc file in yours
+4. Install picom, feh, alacritty, bspwm, rofi, neovim, sxhkd and all there dependencies
+5. Enjoy!
