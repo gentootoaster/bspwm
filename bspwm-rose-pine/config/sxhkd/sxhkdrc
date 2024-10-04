@@ -4,11 +4,11 @@
 
 # terminal emulator
 super + Return
-        alacritty	
+        alacritty
 
 # browser
 super + c
-        chrome
+        chromium
 
 # program launcher
 super + @space

@@ -1,6 +1,6 @@
 [window]
 padding = { x = 5, y = 5 }
-opacity = 0.90
+opacity = 1.00
 [font]
 normal = { family = "JetBrains Mono Nerd Font", style = "Bold" }
 size = 13
