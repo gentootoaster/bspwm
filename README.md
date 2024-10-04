@@ -1,6 +1,6 @@
 BSPWM
 --------------------------------------------------
-![image](https://github.com/user-attachments/assets/35aebcf7-e82d-4cca-9f35-8127e0a72f84)
+![image](https://github.com/user-attachments/assets/d5d3cb9a-fedd-4d11-b8e8-625c90b36a73)
 
 **INSTALL GUIDE**
 --------------------------------------------------
